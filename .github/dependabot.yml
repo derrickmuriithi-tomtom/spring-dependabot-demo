@@ -1,14 +1,1 @@
-version: 2
-updates:
-  - package-ecosystem: "maven"
-    directory: "/"
-    schedule:
-      interval: "daily"
-  - package-ecosystem: "npm"
-    directory: "/test-app"
-    schedule:
-      interval: "daily"
-  - package-ecosystem: "pip"
-    directory: "/python-app"
-    schedule:
-      interval: "daily"
+
